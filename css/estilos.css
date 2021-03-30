@@ -1,0 +1,31 @@
+.textField{
+    width: 60%;
+    background: #fff;
+}
+.cont-amarillo{
+   height: 290px
+}
+.bg-rojo{
+    background: #ff0000;
+    opacity: 0.5;
+    color: #fff;
+}
+.bg-blanco{
+    background: #fff;
+    opacity: 1;
+    color: #000;
+}
+
+
+.textoChiquito{
+    font-size: 12px;
+}
+.registro{
+    font-size: 15px;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+.registro:hover{
+    font-size: 20px;
+    color: #ff0000;
+}
